@@ -1,5 +1,5 @@
 {
-  "world": "ad_astra:overworld_orbit",
+  "world": "minecraft:overworld",
   "stars": {
     "fancy_count": 13000,
     "fast_count": 6000,
